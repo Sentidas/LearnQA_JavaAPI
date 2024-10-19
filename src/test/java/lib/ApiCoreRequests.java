@@ -4,7 +4,6 @@ import io.qameta.allure.Step;
 import io.qameta.allure.restassured.AllureRestAssured;
 import io.restassured.http.Header;
 import io.restassured.response.Response;
-
 import java.util.Map;
 
 import static io.restassured.RestAssured.given;
